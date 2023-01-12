@@ -1,3 +1,3 @@
-# Jordan Clark's Coding Portfolio Page
+# Ross Clark Coding Portfolio Page
 
-### [Jordan Clark's Portfolio](https://codewithclark.github.io/Ross-Clark-Coding-Portfolio-Page/)
+### [The Portfolio from Ross Clark Coding](https://codewithclark.github.io/Ross-Clark-Coding-Portfolio-Page/)
